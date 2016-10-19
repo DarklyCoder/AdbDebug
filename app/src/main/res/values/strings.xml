@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">ADB无线调试</string>
+    <string name="open_adb">打开 ADB</string>
+    <string name="close_adb">关闭 ADB</string>
+    <string name="run_cmd">在电脑终端运行:\n adb connect %1$s</string>
+    <string name="no_root_msg">抱歉，没有获取Root权限，无法使用无线调试功能！</string>
+    <string name="no_wifi_msg">抱歉，没有获取到wifi地址，请检查wifi是否可用！</string>
+    <string name="open_error_msg">抱歉，开启无线调试失败！</string>
+
+</resources>
